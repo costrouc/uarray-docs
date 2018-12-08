@@ -11,6 +11,7 @@ Welcome to uarray's documentation!
    :caption: Contents:
 
    pills
+   publications
 
 
 
