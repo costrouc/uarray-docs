@@ -1,8 +1,6 @@
 Pills
 #####
 
-:math:`A \cat B`
-
 uarray is a library with the ambitious goal of allowing users to write
 linear algebra at a high level and translate the math into low level
 optimized code for arbitrary heterogeneous distributed
